@@ -5,5 +5,3 @@ first line
 
 ## IPSUM Below
 second line
-
-## third line
